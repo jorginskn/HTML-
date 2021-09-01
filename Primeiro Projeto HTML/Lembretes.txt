@@ -1,0 +1,50 @@
+<doctype html> 
+ <html>
+   <head>
+   <title>Meu site</title>
+   <meta charset="utf-8">
+   </head>
+
+    
+    </head>
+        <body>
+         <h1>A empresa</h1>
+           <p>
+       Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit sequi aspernatur autem, laborum minima optio quas! Nam magnam dolores odio molestiae suscipit, libero quisquam sequi autem dolor sed. Enim, iusto?</p>
+               <hr>
+               <h2>Vantagens de ser cliente</h2>
+               <ol type="1">
+                  <li>Atendimento <strong>Rapido</strong></li>
+                  <li>Preços especiais</li>
+                  <li>Muitas cidades</li>
+                  
+               </ol>
+               <hr>  
+               <h2>O que os clientes estão dizendo:</h2>
+               <em>"Gostei Demais do Atendimento, foi muito <strong> rápido</strong> e com certeza irei voltar!"</em><br>
+               <b>Maria Almeida</b>
+               <hr>
+               <!-- Esse é um texto negrito <b>negrito</b> <br>
+               Esse é um texto<i> itálico</i><br>
+               Esse é um texto<u> underline</u><br>
+               Esse é um texto<strike> errado</strike><br> -->
+
+
+               <h2>Mapa do site </h2>
+               <!--Lista não ordenada circle, square, disc-->
+              
+               <ul type ="disc   ">
+                  <li>Home</li>
+                  <li>Quem somos</li>
+                  <li>Contato</li>
+               </ul>
+               <h2></h2>
+                <!--Lista ordenada 1, A, a, I-->
+               <ol type="1 ">
+                  
+               </ol>
+
+
+              <img src="imagens/batman1.jpg" width="1200" >
+            </body>
+    </html>
